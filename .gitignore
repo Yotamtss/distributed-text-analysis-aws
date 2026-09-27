@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+
+# Secrets - never commit
+*.pem
+*.key
+
+# Build artifacts
+demo/target/
+demo/.m2repo/
+
+# Editor
+demo/.vscode/

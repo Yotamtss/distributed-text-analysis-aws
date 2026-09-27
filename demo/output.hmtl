@@ -1,0 +1,11 @@
+<html><body><h1>Analysis Summary</h1><ul>
+<li><b>POS</b>: <a href="https://www.gutenberg.org/files/1659/1659-0.txt">Input</a> | <a href="https://dsp-bucket-6cd3ee4c-ffdb-42df-92f7-01a2a7c3a077.s3.amazonaws.com/results/POS-1766937096411.txt">Output</a></li>
+<li><b>CONSTITUENCY</b>: <a href="https://www.gutenberg.org/files/1659/1659-0.txt">Input</a> | <a href="https://dsp-bucket-6cd3ee4c-ffdb-42df-92f7-01a2a7c3a077.s3.amazonaws.com/results/CONSTITUENCY-1766937171380.txt">Output</a></li>
+<li><b>DEPENDENCY</b>: <a href="https://www.gutenberg.org/files/1659/1659-0.txt">Input</a> | <a href="https://dsp-bucket-6cd3ee4c-ffdb-42df-92f7-01a2a7c3a077.s3.amazonaws.com/results/DEPENDENCY-1766937106261.txt">Output</a></li>
+<li><b>POS</b>: <a href="https://www.gutenberg.org/files/1660/1660-0.txt">Input</a> | <a href="https://dsp-bucket-6cd3ee4c-ffdb-42df-92f7-01a2a7c3a077.s3.amazonaws.com/results/POS-1766937102548.txt">Output</a></li>
+<li><b>CONSTITUENCY</b>: <a href="https://www.gutenberg.org/files/1660/1660-0.txt">Input</a> | <a href="https://dsp-bucket-6cd3ee4c-ffdb-42df-92f7-01a2a7c3a077.s3.amazonaws.com/results/CONSTITUENCY-1766937255900.txt">Output</a></li>
+<li><b>DEPENDENCY</b>: <a href="https://www.gutenberg.org/files/1660/1660-0.txt">Input</a> | <a href="https://dsp-bucket-6cd3ee4c-ffdb-42df-92f7-01a2a7c3a077.s3.amazonaws.com/results/DEPENDENCY-1766937125309.txt">Output</a></li>
+<li><b>POS</b>: <a href="https://www.gutenberg.org/files/1661/1661-0.txt">Input</a> | <a href="https://dsp-bucket-6cd3ee4c-ffdb-42df-92f7-01a2a7c3a077.s3.amazonaws.com/results/POS-1766937097405.txt">Output</a></li>
+<li><b>CONSTITUENCY</b>: <a href="https://www.gutenberg.org/files/1661/1661-0.txt">Input</a> | <a href="https://dsp-bucket-6cd3ee4c-ffdb-42df-92f7-01a2a7c3a077.s3.amazonaws.com/results/CONSTITUENCY-1766937258250.txt">Output</a></li>
+<li><b>DEPENDENCY</b>: <a href="https://www.gutenberg.org/files/1661/1661-0.txt">Input</a> | <a href="https://dsp-bucket-6cd3ee4c-ffdb-42df-92f7-01a2a7c3a077.s3.amazonaws.com/results/DEPENDENCY-1766937128169.txt">Output</a></li>
+</ul></body></html>
